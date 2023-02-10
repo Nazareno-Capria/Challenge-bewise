@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{3A48F967-6BC6-4BA6-B7D2-9EAAD3E85286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTest", "SortingTest\SortingTest.csproj", "{B5E05B0F-7B91-422A-939C-016678C01E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A48F967-6BC6-4BA6-B7D2-9EAAD3E85286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A48F967-6BC6-4BA6-B7D2-9EAAD3E85286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A48F967-6BC6-4BA6-B7D2-9EAAD3E85286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A48F967-6BC6-4BA6-B7D2-9EAAD3E85286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E05B0F-7B91-422A-939C-016678C01E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E05B0F-7B91-422A-939C-016678C01E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E05B0F-7B91-422A-939C-016678C01E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E05B0F-7B91-422A-939C-016678C01E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5E7AA0-8205-4661-93A4-E77ECDA46296}
+	EndGlobalSection
+EndGlobal
