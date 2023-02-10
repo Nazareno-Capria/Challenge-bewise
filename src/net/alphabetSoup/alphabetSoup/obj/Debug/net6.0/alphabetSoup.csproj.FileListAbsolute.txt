@@ -1,0 +1,15 @@
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\bin\Debug\net6.0\alphabetSoup.exe
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\bin\Debug\net6.0\alphabetSoup.deps.json
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\bin\Debug\net6.0\alphabetSoup.runtimeconfig.json
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\bin\Debug\net6.0\alphabetSoup.dll
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\bin\Debug\net6.0\alphabetSoup.pdb
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.csproj.AssemblyReference.cache
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.AssemblyInfoInputs.cache
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.AssemblyInfo.cs
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.csproj.CoreCompileInputs.cache
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.dll
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\refint\alphabetSoup.dll
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.pdb
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\alphabetSoup.genruntimeconfig.cache
+C:\Users\Nazareno\Desktop\Challenge-Bewise\src\net\alphabetSoup\alphabetSoup\obj\Debug\net6.0\ref\alphabetSoup.dll
